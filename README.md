@@ -1,4 +1,3 @@
-![MERN Stack Developer](https://i.ibb.co/4nYWmF29/MERN4.png)
 ### Hi there 👋, My Name is Utso Chandro Roy
 #### MERN Stack Developer
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
