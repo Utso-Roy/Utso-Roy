@@ -15,15 +15,15 @@ Skills:C / C# / JAVA / JS / HTML / CSS / RECT / NODE.JS / MongoDB
 
 <p align="center">
   <a href="https://github.com/Utso-Roy">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/utsoroy8876/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/utso.roy.754">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="20" height="20"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="30" height="30"/>
   </a>
 </p>
 
