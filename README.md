@@ -1,24 +1,30 @@
-#Hi there 👋, I'am Utso Chandro Roy
-![web developer]([[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/4nYWmF29/MERN4.png)])
+![MERN Stack Developer](https://i.ibb.co/4nYWmF29/MERN4.png)
+### Hi there 👋, My Name is Utso Chandro Roy
+#### MERN Stack Developer
+I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
 
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. 
-
-Skills: C / C# / JS / HTML / CSS/Rect
+Skills: REACT / JS / HTML / CSS/NODE.JS/
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java Script  
-- 👯 I’m looking to collaborate on Github 
+- 🌱 I’m currently learning Next.js and Server-side Rendering (SSR) - TypeScript - Advanced MongoDB Aggregation - Docker for Deployment - Redux Toolkit 
+- 👯 I’m looking to collaborate on github 
+- 🤔 I’m looking for help with - Optimizing MongoDB queries - Best practices in backend architecture - Deploying full-stack apps on cloud platforms - Writing clean and scalable code 
+- 💬 Ask me about Web Devlopment 
+- 📫 How to reach me: Email: royutso003@gmail.com 
+- ⚡ Fun fact: I can debug code faster with coffee than without it 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Utso-Roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/utso.roy.754)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Utso-Roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/utsoroy8876/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/utso.roy.754)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Utso-Roy)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Utso-Roy&show_icons=true&count_private=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Utso-Roy)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Utso-Roy/contributions?format=svg&private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utso-Roy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Utso-Roy)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Utso-Roy&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Utso-Roy)  
+![GitHub metrics](https://metrics.lecoq.io/Utso-Roy)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Utso-Roy)  
 
