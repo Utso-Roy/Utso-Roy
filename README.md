@@ -2,7 +2,7 @@
 ### Web Developer
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
 
-Skills: REACT / JS / HTML / CSS/NODE.JS/
+Skills:C / C# / JAVA / JS / HTML / CSS / RECT / NODE.JS / MongoDB
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next.js and Server-side Rendering (SSR) - TypeScript - Advanced MongoDB Aggregation - Docker for Deployment - Redux Toolkit 
