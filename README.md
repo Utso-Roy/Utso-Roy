@@ -10,7 +10,7 @@ Skills:C / C# / JAVA / JS / HTML / CSS / RECT / NODE.JS / MongoDB
 - 🤔 I’m looking for help with - Optimizing MongoDB queries - Best practices in backend architecture - Deploying full-stack apps on cloud platforms - Writing clean and scalable code 
 - 💬 Ask me about Web Devlopment 
 - 📫 How to reach me: Email: royutso003@gmail.com 
-- ⚡ Fun fact: I can debug code faster with coffee than without it 
+- ⚡ Fun fact: "99% of my code works just fine… but the remaining 1% makes me question my entire career."
 
 
 <p align="center">
