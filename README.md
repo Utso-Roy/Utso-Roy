@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Utso Chandro Roy
+# Hi there 👋, My Name is Utso Chandro Roy
 #### MERN Stack Developer
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
 
@@ -13,7 +13,20 @@ Skills: REACT / JS / HTML / CSS/NODE.JS/
 - ⚡ Fun fact: I can debug code faster with coffee than without it 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='5'>](https://github.com/Utso-Roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='5'>](https://www.linkedin.com/in/utsoroy8876/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='5'>](https://www.facebook.com/utso.roy.754)  
+<p align="center">
+  <a href="https://github.com/Utso-Roy">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="20" height="20"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/utsoroy8876/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/utso.roy.754">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="20" height="20"/>
+  </a>
+</p>
+
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
