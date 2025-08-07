@@ -2,9 +2,13 @@
 ### Web Developer
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
 <p align="center">
+  <img src="https://your-image-url.com/your-banner.jpg" alt="Banner" style="width:100%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Passionate+Full+Stack+Developer;MERN+Stack+Expert;Clean+%26+Scalable+Code+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
-###  **Skills**
+## **Skills**
 
 ####  **Frontend**
 <p align="center">
