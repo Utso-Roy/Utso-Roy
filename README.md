@@ -1,5 +1,6 @@
-
-<img src="https://i.ibb.co/d4J2jmY0/MERN2.png" alt="Banner" style="width: 100%;" />
+<p align="center">
+  <img src="https://i.ibb.co/d4J2jmY0/MERN2.png" alt="Banner" style="width:100%;"/>
+</p>
 # Hi there 👋, My Name is Utso Chandro Roy
 ### Web Developer
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications using modern tools like React, Node.js, and MongoDB. I love solving real-world problems through clean and efficient code.
