@@ -30,21 +30,13 @@ philosophy: "Clean, efficient, and scalable code — always."
 
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications and solving real-world problems through clean, efficient code.
 
-<table>
-<tr>
-<td>
-
-🔭 **Currently working on** — my GitHub profile & portfolio projects
-🌱 **Currently learning** — Advanced MongoDB Aggregation, Docker, Redux Toolkit
-👯 **Looking to collaborate** — on open-source GitHub projects
-🤔 **Looking for help with** — optimizing MongoDB queries, backend architecture best practices, cloud deployment for full-stack apps
-💬 **Ask me about** — Web Development
-📫 **Reach me at** — royutso003@gmail.com
-⚡ **Fun fact** — *"99% of my code works just fine… the remaining 1% makes me question my entire career."*
-
-</td>
-</tr>
-</table>
+- 🔭 **Currently working on** — my GitHub profile & portfolio projects
+- 🌱 **Currently learning** — Advanced MongoDB Aggregation, Docker, Redux Toolkit
+- 👯 **Looking to collaborate** — on open-source GitHub projects
+- 🤔 **Looking for help with** — optimizing MongoDB queries, backend architecture best practices, cloud deployment for full-stack apps
+- 💬 **Ask me about** — Web Development
+- 📫 **Reach me at** — royutso003@gmail.com
+- ⚡ **Fun fact** — *"99% of my code works just fine… the remaining 1% makes me question my entire career."*
 
 <br/>
 
@@ -59,6 +51,7 @@ I'm a passionate Web Developer with a strong foundation in both front-end and ba
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
