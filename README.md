@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Utso+Chandro+Roy;MERN+Stack+Enthusiast;Clean+%26+Scalable+Code+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Utso+Chandro+Roy;Clean+%26+Scalable+Code+Lover" alt="Typing SVG" />
 
 <br/>
 
@@ -23,9 +23,7 @@
 
 ```yaml
 name: Utso Chandro Roy
-role: Web Developer
-focus: MERN Stack (MongoDB · Express.js · React · Node.js)
-philosophy: "Clean, efficient, and scalable code — always."
+philosophy: "Clean, efficient, and scalable code always."
 ```
 
 I'm a passionate Web Developer with a strong foundation in both front-end and back-end technologies. I enjoy building responsive, user-friendly web applications and solving real-world problems through clean, efficient code.
@@ -94,18 +92,9 @@ I'm a passionate Web Developer with a strong foundation in both front-end and ba
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Utso-Roy)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utso-Roy)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Utso-Roy&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Utso-Roy)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Utso-Roy)  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Utso-Roy&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 </details>
 
 <br/>
