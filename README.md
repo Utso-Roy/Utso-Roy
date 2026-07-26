@@ -4,7 +4,7 @@
 
 # Utso Chandro Roy
 
-### Full-Stack Web Developer
+### Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1500&color=8B8B8B&center=true&vCenter=true&width=440&lines=Clean+code%2C+scalable+systems.;MERN+stack+%E2%80%A2+MongoDB+%E2%80%A2+React+%E2%80%A2+Node.js;Always+building%2C+always+learning." alt="Typing SVG" />
 
