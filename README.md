@@ -22,10 +22,16 @@
 
 I build responsive, user-focused web applications with an emphasis on clean architecture and maintainable code. Most of my work centers on the MERN stack, though I move comfortably across the full front-to-back pipeline.
 
-- **Currently building** — personal portfolio & open-source projects
-- **Currently learning** — advanced MongoDB aggregation, Docker, Redux Toolkit
-- **Open to** — collaborating on open-source projects
-- **Ask me about** — web development, MERN architecture, frontend/backend integration
+- 🔭 **Currently working on** — my GitHub profile & portfolio projects
+- 🌱 **Currently learning** — Advanced MongoDB Aggregation, Docker, Redux Toolkit
+- 👯 **Looking to collaborate** — on open-source GitHub projects
+- 🤔 **Looking for help with** — optimizing MongoDB queries, backend architecture best practices, cloud deployment for full-stack apps
+- 💬 **Ask me about** — Web Development
+- 📫 **Reach me at** — royutso003@gmail.com
+- ⚡ **Fun fact** — *"99% of my code works just fine… the remaining 1% makes me question my entire career."*
+
+
+
 
 <br/>
 
@@ -39,7 +45,7 @@ I build responsive, user-focused web applications with an emphasis on clean arch
 
 React · Next.js · React Native
 TypeScript · JavaScript
-Tailwind CSS · Framer Motion
+Tailwind CSS · Framer . Wix
 HTML5 · CSS3
 
 </td>
@@ -56,7 +62,6 @@ MongoDB · Firebase
 **Languages & Tools**
 
 C · C# · Java
-Git · GitHub · VS Code
 
 </td>
 </tr>
