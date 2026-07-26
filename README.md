@@ -43,10 +43,8 @@ I build responsive, user-focused web applications with an emphasis on clean arch
 
 **Frontend**
 
-React · Next.js · React Native
-TypeScript · JavaScript
-Tailwind CSS · Framer . Wix
-HTML5 · CSS3
+HTML5 · CSS3 . Tailwind CSS . React 
+· Next.js · React Native . Framer . Wix
 
 </td>
 <td valign="top" width="33%">
@@ -61,7 +59,7 @@ MongoDB · Firebase
 
 **Languages & Tools**
 
-C · C# · Java
+C · C# · Java . JavaScript . TypeScript 
 
 </td>
 </tr>
