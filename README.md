@@ -23,15 +23,12 @@
 I build responsive, user-focused web applications with an emphasis on clean architecture and maintainable code. Most of my work centers on the MERN stack, though I move comfortably across the full front-to-back pipeline.
 
 - 🔭 **Currently working on** — my GitHub profile & portfolio projects
-- 🌱 **Currently learning** — Advanced MongoDB Aggregation, Docker, Redux Toolkit
-- 👯 **Looking to collaborate** — on open-source GitHub projects
+- 🌱 **Currently learning** — advanced MongoDB aggregation, Docker, Redux Toolkit
+- 👯 **Looking to collaborate** — on open-source projects
 - 🤔 **Looking for help with** — optimizing MongoDB queries, backend architecture best practices, cloud deployment for full-stack apps
-- 💬 **Ask me about** — Web Development
+- 💬 **Ask me about** — web development
 - 📫 **Reach me at** — royutso003@gmail.com
 - ⚡ **Fun fact** — *"99% of my code works just fine… the remaining 1% makes me question my entire career."*
-
-
-
 
 <br/>
 
@@ -43,8 +40,9 @@ I build responsive, user-focused web applications with an emphasis on clean arch
 
 **Frontend**
 
-HTML5 · CSS3 . Tailwind CSS . React 
-· Next.js · React Native . Framer . Wix
+HTML5 · CSS3 · JavaScript · TypeScript
+React · Next.js · React Native
+Tailwind CSS · Framer Motion · Wix
 
 </td>
 <td valign="top" width="33%">
@@ -59,7 +57,8 @@ MongoDB · Firebase
 
 **Languages & Tools**
 
-C · C# · Java . JavaScript . TypeScript 
+C · C# · Java
+Git · GitHub · VS Code
 
 </td>
 </tr>
@@ -75,6 +74,14 @@ C · C# · Java . JavaScript . TypeScript
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utso-Roy&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=000000&text_color=333333" width="45%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Utso-Roy&theme=default&hide_border=true&background=ffffff00&ring=000000&fire=000000&currStreakLabel=000000" width="65%"/>
+
+<br/><br/>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Utso-Roy&theme=flat&no-frame=true&row=1&column=7"/>
+</details>
 
 </div>
 
